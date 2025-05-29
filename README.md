@@ -15,9 +15,9 @@ A command-line application written in Go for managing and reviewing co-working s
 
 ## 🚀 How to Run
 
-1. Pastikan kamu sudah menginstall Go.
-2. Clone repository ini atau simpan file `tubes.go`.
-3. Jalankan perintah berikut:
+1. Make sure you have Go installed.
+2. Clone this repository or save the `tubes.go`.
+3. Run the following command:
 
 ```bash
 go run tubes.go
